@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/850379107.svg)](https://zenodo.org/doi/10.5281/zenodo.13623490)
+
 # A Mathematical Programming Approach to the Relay Node Placement Problem in Urban Environments
 
 
